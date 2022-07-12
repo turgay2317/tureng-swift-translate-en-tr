@@ -45,7 +45,6 @@ class WordsViewController: UIViewController {
     private func loadParagraph(){
         words.append("Hi")
         words.append("I")
-        words.append("am")
         words.append("live")
         words.append("in")
         words.append("London")
